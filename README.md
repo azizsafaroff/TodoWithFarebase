@@ -1,4 +1,4 @@
-# todo_app
+# Todo App with Firebase
 
 A new Flutter project.
 
